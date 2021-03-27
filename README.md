@@ -18,6 +18,6 @@ Create a token:
 
 http://127.0.0.1:8000/api/user/token/
 
-Manage user settings:
+Manage logged in user settings:
 
 http://127.0.0.1:8000/api/user/me/
